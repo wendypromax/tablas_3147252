@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(243, 242, 242);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+nav{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+table, th, td {
+border: 1px solid black ;
+border-collapse: collapse;
+text-align: center;
+margin: auto;
+padding: 15;
+width: 80px;
+background-color: #fdc6a1;
+padding: 20px 10px;
+font-size: 50px;
+
+}
+.th,td {
+    background-color: #fa969b;
+    padding: 20px 10px;
+
+}
+
+footer{
+    text-align: center;
+    font-size: 50px;
+
+}
